@@ -1,0 +1,4 @@
+html, body { background: rgb(179, 40, 56); text-align: center; }
+#sidebar { display: none; }
+#passages { width: 800px; margin: 25px auto; }
+.content { font-family: Georgia; font-size: 20px; text-align: center; }
