@@ -26,7 +26,7 @@ By default, files will be loaded relative to the HTML file that you are using. I
 Using it
 --------
 To use the loader, you will need to create a Twine passage to register this macro. 
-Simply create a new passage, give it a *script* tag, and copy the contents of `loader.js` into it.
+Simply create a new passage, give it a *script* tag, and copy the contents of `src/loader.min.js` into it.
 
 Once that is done, you can now load all required stylesheets, scripts from a single passage in a highly readable fashion:
     
